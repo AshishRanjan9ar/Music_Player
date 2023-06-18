@@ -1,4 +1,6 @@
 # Music_Player
+#HOSTED LINK
+https://ashishranjan9ar.github.io/Music_Player/
 
 # Introduction:
 Welcome to our music player website! Here, you can listen to your favorite tunes and enjoy an immersive musical experience. Our website has been carefully designed and developed using HTML, CSS, and JavaScript to provide a seamless and user-friendly interface for all music enthusiasts.
